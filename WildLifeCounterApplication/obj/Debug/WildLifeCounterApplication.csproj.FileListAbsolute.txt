@@ -1,0 +1,7 @@
+C:\Users\61433\Desktop\WildLifeCounterApplication\WildLifeCounterApplication\bin\Debug\WildLifeCounterApplication.exe.config
+C:\Users\61433\Desktop\WildLifeCounterApplication\WildLifeCounterApplication\bin\Debug\WildLifeCounterApplication.exe
+C:\Users\61433\Desktop\WildLifeCounterApplication\WildLifeCounterApplication\bin\Debug\WildLifeCounterApplication.pdb
+C:\Users\61433\Desktop\WildLifeCounterApplication\WildLifeCounterApplication\obj\Debug\WildLifeCounterApplication.csprojAssemblyReference.cache
+C:\Users\61433\Desktop\WildLifeCounterApplication\WildLifeCounterApplication\obj\Debug\WildLifeCounterApplication.csproj.CoreCompileInputs.cache
+C:\Users\61433\Desktop\WildLifeCounterApplication\WildLifeCounterApplication\obj\Debug\WildLifeCounterApplication.exe
+C:\Users\61433\Desktop\WildLifeCounterApplication\WildLifeCounterApplication\obj\Debug\WildLifeCounterApplication.pdb
